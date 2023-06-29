@@ -7,7 +7,8 @@ import { HousingListComponent } from './housing-list/housing-list.component';
 @NgModule({
   declarations: [
     AppComponent,
-    HousingListComponent
+    HousingListComponent,
+
   ],
   imports: [
     BrowserModule
